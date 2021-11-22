@@ -1,5 +1,5 @@
 # 钉钉 rss 推送机器人
-name: DingDingRssBot
+name: DingDing
 
 on:
   schedule:
